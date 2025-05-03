@@ -1,0 +1,37 @@
+
+.cabeza{
+    background-color: grey;
+    border: 5px;
+    border-color: black;
+}
+.medio{
+    background-color: rgb(255, 255, 255);
+}
+.final{
+    background-color: rgb(236, 232, 232);
+}
+article{
+    margin-top: -5%;
+}
+div{
+    margin-left: auto;
+    margin-right:auto ;
+    margin-bottom: auto;
+    width: 300px;
+    height: 900px;
+
+}
+h1{
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: medium;
+    text-align: justify;
+    padding: 2px;
+    text-shadow: none;
+}
+.email{
+    text-align: center;
+}
