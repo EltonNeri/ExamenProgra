@@ -1,0 +1,65 @@
+html body{
+    padding: 0%;
+}
+header {
+    display: flex;
+    width: 100%;
+}
+header ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 15px;
+}
+header ul li {
+    margin: 10px;
+    padding-right:  50px;
+}
+footer table tr{
+    display: flex;
+    margin-top: 15px;
+    padding: 10px;
+}
+footer table{
+    border: 5px;
+    border-color: black;
+}
+
+section h1{
+    color:  white;
+    font-family: SegoeUI;
+}
+section p{
+    color: white;
+    font-family: SegoeUI;
+}
+.abajo{
+    color: grey
+}
+.redes{
+    width: 40px;
+}
+section ul{
+    list-style-type: none;
+    display: flex;
+    margin-top: 5px;
+}
+section ul li{
+    margin: 10px
+}
+footer{
+    background-color: #F2F2F2;
+}
+footer ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 15px;
+    text-align: left;
+}
+footer ul li {
+    margin: 10px;
+}
+.contenderimagen {
+    background-image: url('img/banner.jpg');
+      width: 100%;
+      height: 100%;
+}
